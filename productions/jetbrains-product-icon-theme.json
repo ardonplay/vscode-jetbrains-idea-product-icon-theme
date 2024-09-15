@@ -1,0 +1,97 @@
+{
+  "fonts": [
+    {
+      "id": "jetbrains-product-icons",
+      "src": [
+        {
+          "path": "./jetbrains-product-icons.woff",
+          "format": "woff"
+        }
+      ]
+    }
+  ],
+  "iconDefinitions": {
+    "symbol-class": {
+      "fontCharacter": "\\E900",
+      "fontColor": "#3574F0"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\E901"
+    },
+    "symbol-module": {
+      "fontCharacter": "\\E901"
+    },
+    "symbol-struct": {
+      "fontCharacter": "\\E902"
+    },
+    "symbol-structure": {
+      "fontCharacter": "\\E902"
+    },
+    "symbol-constant": {
+      "fontCharacter": "\\E903"
+    },
+    "symbol-enum": {
+      "fontCharacter": "\\E904",
+      "fontColor": "#834DF0"
+    },
+    "symbol-enum-member": {
+      "fontCharacter": "\\E904"
+    },
+    "symbol-field": {
+      "fontCharacter": "\\E905"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\E906"
+    },
+    "symbol-interface": {
+      "fontCharacter": "\\E907",
+      "fontColor": "#5FB865"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\E908"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "\\E908"
+    },
+    "symbol-operator": {
+      "fontCharacter": "\\E909"
+    },
+    "symbol-parameter": {
+      "fontCharacter": "\\E90A"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\E90B"
+    },
+    "symbol-value": {
+      "fontCharacter": "\\E90C"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\E90D"
+    },
+    // E90E unused
+    // "symbol-type-parameter": {
+    //     "fontCharacter": "\\E90E"
+    // },
+    "symbol-snippet": {
+      "fontCharacter": "\\E90F"
+    },
+    "symbol-type-parameter": {
+      "fontCharacter": "\\E910"
+    },
+    "symbol-text": {
+      "fontCharacter": "\\E911"
+    },
+    "symbol-keyword": {
+      "fontCharacter": "  "
+    },
+    "symbol-package": {
+      "fontCharacter": "\\E912"
+    },
+    "file-submodule": {
+      "fontCharacter": "\\E913"
+    },
+    "project": {
+      "fontCharacter": "\\E913"
+    }
+  }
+}
